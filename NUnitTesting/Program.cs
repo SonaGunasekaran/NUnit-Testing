@@ -6,7 +6,21 @@ namespace NUnitTesting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the N Unit Testing Programs");
+            Console.WriteLine("\n1.Vending Machine");
+
+            Console.WriteLine("Choose the Option: ");
+            int choice = Convert.ToInt32(Console.ReadLine());
+
+            switch(choice)
+            {
+                case 1:
+                    VendingMachine.ReadInput();
+                    break;
+                default:
+                    Console.WriteLine("Exit");
+                    break;
+                
+            }
         }
     }
 }
