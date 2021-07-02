@@ -6,7 +6,7 @@ namespace NUnitTesting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\n1.Vending Machine\n2.Day Of Week\n3.Temperature Conversion\n4.Monthly Payment\n5.Square Root\n6.Convert To Binary");
+            Console.WriteLine("\n1.Vending Machine\n2.Day Of Week\n3.Temperature Conversion\n4.Monthly Payment\n5.Square Root\n6.Convert To Binary\n7.Swap Nibbles");
 
             Console.WriteLine("Choose the Option: ");
             int choice = Convert.ToInt32(Console.ReadLine());
@@ -31,6 +31,10 @@ namespace NUnitTesting
                 case 6:
                     ConvertToBinary.ReadInput();
                     break;
+                case 7:
+                    SwapNibbles.ReadInput();
+                    break;
+
 
                 default:
                     Console.WriteLine("Exit");
