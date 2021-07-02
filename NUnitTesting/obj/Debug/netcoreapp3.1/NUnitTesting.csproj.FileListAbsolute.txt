@@ -1,0 +1,13 @@
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\bin\Debug\netcoreapp3.1\NUnitTesting.exe
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\bin\Debug\netcoreapp3.1\NUnitTesting.deps.json
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\bin\Debug\netcoreapp3.1\NUnitTesting.runtimeconfig.json
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\bin\Debug\netcoreapp3.1\NUnitTesting.runtimeconfig.dev.json
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\bin\Debug\netcoreapp3.1\NUnitTesting.dll
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\bin\Debug\netcoreapp3.1\NUnitTesting.pdb
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\obj\Debug\netcoreapp3.1\NUnitTesting.csproj.AssemblyReference.cache
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\obj\Debug\netcoreapp3.1\NUnitTesting.AssemblyInfoInputs.cache
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\obj\Debug\netcoreapp3.1\NUnitTesting.AssemblyInfo.cs
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\obj\Debug\netcoreapp3.1\NUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\obj\Debug\netcoreapp3.1\NUnitTesting.dll
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\obj\Debug\netcoreapp3.1\NUnitTesting.pdb
+C:\Users\Sona G\source\repos\NUnitTesting\NUnitTesting\obj\Debug\netcoreapp3.1\NUnitTesting.genruntimeconfig.cache
