@@ -6,7 +6,7 @@ namespace NUnitTesting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\n1.Vending Machine");
+            Console.WriteLine("\n1.Vending Machine\n2.Day Of Week");
 
             Console.WriteLine("Choose the Option: ");
             int choice = Convert.ToInt32(Console.ReadLine());
@@ -16,6 +16,10 @@ namespace NUnitTesting
                 case 1:
                     VendingMachine.ReadInput();
                     break;
+                case 2:
+                    DayOfWeek.ReadInput();
+                    break;
+
                 default:
                     Console.WriteLine("Exit");
                     break;
